@@ -1,0 +1,16 @@
+{
+  "FilePath": "c:\\Users\\User\\Desktop\\Estudo3\\estudo3.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [
+      {
+        "Kind": "ITagHelper",
+        "Name": "Microsoft.
